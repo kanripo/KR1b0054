@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 洪範正論
-#+DATE: 2015-09-23 09:36:21
-#+PROPERTY: JUAN 0
+#+DATE: 2015-08-24 22:03:53.348803
+#+PROPERTY: ID KR1b0054
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 提要
 <pb:KR1b0054_WYG_000-1a>¶
 欽定四庫全書　　　　　經部二¶
 　洪範正論　　　　　　　書𩔖¶
@@ -32,6 +34,7 @@
 <pb:KR1b0054_WYG_000-2b>¶
 　　　　　　　總纂官(臣/)紀昀(臣/)陸錫熊(臣/)孫士毅¶
 　　　　　　　　　　總　校　官(臣/)陸　費　墀¶
+#+PROPERTY: JUAN 原序
 <pb:KR1b0054_WYG_000-3a>¶
 原序¶
 洪範一書如日月之麗天有目者所共覩而問有晦肓¶
@@ -53,4 +56,3 @@
 <pb:KR1b0054_WYG_000-4a>¶
 己丑芟緐補闕辨誤析疑纂成五卷名之曰洪範正論¶
 徳清胡渭¶
-

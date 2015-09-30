@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 洪範正論
-#+DATE: 2015-09-23 09:36:21
-#+PROPERTY: JUAN 2
+#+DATE: 2015-08-24 22:03:53.395154
+#+PROPERTY: ID KR1b0054
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二
 <pb:KR1b0054_WYG_002-1a>¶
 欽定四庫全書¶
 　洪範正論巻二¶
@@ -542,4 +544,3 @@
 　¶
 　¶
 　洪範正論卷二¶
-
